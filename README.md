@@ -28,3 +28,15 @@ todo-app
 beginner-friendly
 open-source
 productivity
+
+##Installation
+(commands)
+
+#Usagr
+(commands)
+
+##Future Improvements
+-due dates
+-priority tasks
+-GUI vesions
+
