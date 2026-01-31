@@ -1,3 +1,5 @@
+### "This project aims to solve X problem for Y users.........."
+
 # 📝 CLI TODO App (Python)
 
 A simple Command Line TODO application built using Python that helps users manage their daily tasks directly from the terminal.
