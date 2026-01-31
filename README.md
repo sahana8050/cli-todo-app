@@ -24,14 +24,6 @@ productivity
 - Command Line Interface (CLI)
 - Git & GitHub
 
-## 📌 How to Run the Project
-
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/YOUR_USERNAME/cli-todo-app.git
-
-
-
 ### Installation
 (commands)
 
@@ -42,4 +34,15 @@ git clone https://github.com/YOUR_USERNAME/cli-todo-app.git
 -due dates
 -priority tasks
 -GUI vesions
+
+
+
+## 📌 How to Run the Project
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/YOUR_USERNAME/cli-todo-app.git
+
+
+
 
