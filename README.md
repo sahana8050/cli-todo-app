@@ -21,3 +21,10 @@ A simple Command Line TODO application built using Python that helps users manag
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/YOUR_USERNAME/cli-todo-app.git
+
+python
+cli
+todo-app
+beginner-friendly
+open-source
+productivity
