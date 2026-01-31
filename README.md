@@ -3,6 +3,12 @@
 # 📝 CLI TODO App (Python)
 
 A simple Command Line TODO application built using Python that helps users manage their daily tasks directly from the terminal.
+python
+cli
+todo-app
+beginner-friendly
+open-source
+productivity
 
 ## 🚀 Features
 ✔ Add new tasks  
@@ -24,17 +30,12 @@ A simple Command Line TODO application built using Python that helps users manag
 ```bash
 git clone https://github.com/YOUR_USERNAME/cli-todo-app.git
 
-python
-cli
-todo-app
-beginner-friendly
-open-source
-productivity
 
-##Installation
+
+### Installation
 (commands)
 
-#Usagr
+###Usagr
 (commands)
 
 ## Future Improvements
